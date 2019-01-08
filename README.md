@@ -1,2 +1,1 @@
-# website
-Source code for my personal website.
+# portfolio-site-gatsby
